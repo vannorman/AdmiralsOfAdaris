@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.spacetanks.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\Unity\\Projects\\SpaceTanks\\SpaceTanks\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SpaceTanks [Testing]"
+        }
+      }
+    }
+  ]
+}
